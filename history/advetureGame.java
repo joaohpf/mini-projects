@@ -41,7 +41,7 @@ public class AdventureGame {
 
         } while (playAgain.equalsIgnoreCase("y"));
 
-        System.out.println("Game over. Thanks for playing!");
+        System.out.println("Game over!");
         input.close();
     }
 }
